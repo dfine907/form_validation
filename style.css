@@ -12,7 +12,7 @@
 }
 
 body {
-    background-color: #E8F8F5;
+    background-color: #f8e8f8;
     font-family: 'Open sans', sans-serif;
     display: flex;
     flex-direction: column;
@@ -90,8 +90,8 @@ h2 {
 
 .form button {
     cursor: pointer;
-    border: 2px solid #045D5D;
-    background-color: #045D5D;
+    border: 2px solid #220233;
+    background-color: #34045b;
     border-radius: 3px;
     padding: 8px;
     color: #FFF;
